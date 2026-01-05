@@ -120,30 +120,4 @@ equal_button = Button(frame, text = "=", bd= 0, font = 35, bg= "orange", fg = "w
 
 equal_button.grid(row = 3, column= 3, rowspan= 4, sticky= N+S+E+W)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 window.mainloop()
